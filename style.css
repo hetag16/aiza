@@ -1,0 +1,43 @@
+.body, html{
+    max-width: 425px;
+}
+.container{
+    max-width: 425px;
+    height: 1000px;
+    box-sizing: border-box;
+    background: #e676c28d;
+}
+.aiza_inner{
+    display: flex;
+    align-items: center;
+    margin: 50%;
+    width: 250px;
+}
+.aiza_link{
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 50%;
+    color: #2f187b;
+    text-transform: uppercase;
+    line-height: 150%;
+    font-weight: 900px;
+    font-size: 35px;
+    text-align: center;
+    padding: 50%;
+    box-shadow: -10px -10px 10px -10px rgb(0, 0, 0);
+    background: url(IMG_7325.PNG) -333px -268px no-repeat;
+}
+.aiza_title{
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 50%;
+    color: #1d073b;
+    text-transform: uppercase;
+    line-height: 150%;
+    font-weight: 900px;
+    font-size: 35px;
+    text-align: center;
+    padding: 50%;
+    box-shadow: -10px -10px 10px -10px black;
+    background: url(IMG_7325.PNG) -333px -268px no-repeat;
+}
